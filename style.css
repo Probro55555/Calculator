@@ -1,0 +1,191 @@
+body {
+    display: flex;
+    width: 1900px;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.container {
+    display: flex;
+    width: 370px;
+    height: 500px;
+    border: 1px solid black;
+    gap: 10px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.buttons {
+    display: flex;
+    
+    
+    
+    gap: 30px;
+    
+    
+    
+}
+
+#textbox {
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+    justify-content: center;
+    border-radius: 10px 10px 10px 10px;
+    width: 350px;
+    height: 50px;
+    font-size: 40px;
+    
+}
+
+.numbers {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-grow: 0;
+    
+    min-width: 260px;
+    max-width: 260.19px;
+    
+    
+}
+
+#one {
+
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: rgb(251, 206, 177);
+    border: 1px solid white;
+    
+}
+
+#two {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#three {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#four {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#five {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#six {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#seven {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#eight {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#nine {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#zero {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.operations {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    min-width: 80px;
+    align-items: center;
+    gap: 15px;
+    
+    
+}
+
+
+
+#add {
+    width: 80px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#sub {
+    width: 80px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#mul {
+    width: 80px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#divide {
+    width: 80px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#equal {
+    width: 80px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#clear {
+    width: 70px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+
