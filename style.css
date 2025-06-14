@@ -21,6 +21,7 @@ body {
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
+    background-color: bisque;
     
 }
 .buttons {
@@ -65,7 +66,7 @@ body {
     font-weight: bolder;
     font-size: 30px;
     background-color: rgb(251, 206, 177);
-    border: 1px solid white;
+    
     
 }
 
@@ -73,6 +74,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -80,6 +82,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -87,6 +90,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -94,6 +98,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -101,6 +106,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -108,6 +114,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -115,6 +122,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -122,6 +130,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -129,6 +138,7 @@ body {
     width: 70px;
     height: 60px;
     font-weight: bolder;
+    background-color: rgb(251, 206, 177);
     font-size: 30px;
 }
 
@@ -150,6 +160,7 @@ body {
     height: 60px;
     font-weight: bolder;
     font-size: 30px;
+    background-color: rgb(248,131,121);
 }
 
 #sub {
@@ -157,6 +168,7 @@ body {
     height: 60px;
     font-weight: bolder;
     font-size: 30px;
+    background-color: rgb(248,131,121);
 }
 
 #mul {
@@ -164,6 +176,7 @@ body {
     height: 60px;
     font-weight: bolder;
     font-size: 30px;
+    background-color: rgb(248,131,121);
 }
 
 #divide {
@@ -171,6 +184,7 @@ body {
     height: 60px;
     font-weight: bolder;
     font-size: 30px;
+    background-color: rgb(248,131,121);
 }
 
 #equal {
@@ -178,6 +192,7 @@ body {
     height: 60px;
     font-weight: bolder;
     font-size: 30px;
+    background-color: rgb(248,131,121);
 }
 
 #clear {
@@ -185,6 +200,7 @@ body {
     height: 60px;
     font-weight: bolder;
     font-size: 30px;
+    background-color: rgb(248,131,121);
 }
 
 
